@@ -1,0 +1,71 @@
+.fieldBody {
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px 120px ;
+}
+
+.fieldHead {
+    background-color: rgba(32, 176, 238, 0.947);
+    width: fit-content;
+    border: solid 2px;
+    padding:3% ;
+    border-radius: 50px;
+}
+
+.diffButton{
+    margin: 2%;
+    height: 20px;
+    margin-top: 32%;
+    border-radius: 10px;
+}
+
+.difGrid{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+}
+.rowDifGrid {
+    display: grid;
+    grid-template-columns: 120px 210px;
+    
+}
+
+
+
+.content{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.restart{
+    border-radius: 10px;
+}
+
+
+.resultDiv{
+    margin-top: -2%;
+    display: grid;
+    grid-template-columns: 150px 100px;
+}
+
+.homeBody{
+    margin-left: 10%;
+    text-align: left;
+    margin-right: 10%;
+}
+
+.helpBody{
+    margin-left: 10%;
+    text-align: left;
+    margin-right: 10%;
+}
+
+p{
+    font-weight: 500;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.winBody {
+    margin-left: 15%;
+}
