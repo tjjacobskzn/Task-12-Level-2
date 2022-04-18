@@ -157,6 +157,8 @@ class App extends React.Component {
 
   // below we build our html.
   render() {
+    // below we build our page/component layout and call or make instances of our desired functions/methods and components/class components.
+    // Note that we are building an html layout through use of Advanced JavaScript and JSX
     return (
       <div className="winBody">
         <div className="content">

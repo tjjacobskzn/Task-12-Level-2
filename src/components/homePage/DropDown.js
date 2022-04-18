@@ -12,6 +12,7 @@ function DropDown() {
     navigate(event.target.value);
   }
 
+  // below we build our html component/page layout with advanced JavaScript and JSX
   return (
     <div className="dropDown">
       <select onChange={setValue}>

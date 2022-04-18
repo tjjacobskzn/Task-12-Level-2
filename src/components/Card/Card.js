@@ -23,6 +23,8 @@ class Card extends React.Component {
   }
 
   render() {
+    // below we build our Card layout and call or make instances of our desired functions/methods and components/class components.
+  // Note that we are building an html layout through use of Advanced JavaScript and JSX
     return (
       <div onClick={this.flipCard}>
         <div className="card">

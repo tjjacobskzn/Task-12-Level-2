@@ -2,6 +2,7 @@ import React from "react";
 import "../components.css";
 
 // this is an instruction menu for "match the hatch"
+// below we build our html component/page layout with advanced JavaScript and JSX
 function Help() {
   return (
     <div className="helpBody">
